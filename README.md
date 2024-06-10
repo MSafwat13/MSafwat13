@@ -15,12 +15,12 @@ I'm Mohamed Safwat M Osman, a Digital Transformation Lead (DTL) and BIM Expert w
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new tech gadgets and software tools.
 
-- ### Experience
+### Experience
 - **Evolusion Innovations**: Digital Transformation Lead, BIM & Structural Engineer
 - **BIMTEC**: BIM DMC Consultant
 - **INEA**: BIM Specialist
 
-- ### Education
+### Education
 
 - **Politecnico di Milano** - Master's degree in BIM (Building Information Modeling)
 - **Universidade do Minho** - Master's degree in Building Information Modeling
@@ -37,7 +37,7 @@ I'm Mohamed Safwat M Osman, a Digital Transformation Lead (DTL) and BIM Expert w
 - Digital Strategy
 - Organizational Development
 
-- ### Publications
+### Publications
 
 - Case study in Interoperability between Different Software from Structural-BIM perspective
 - ANN models for nano silica/silica fume concrete strength prediction
